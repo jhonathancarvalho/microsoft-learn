@@ -1,10 +1,10 @@
 <h3>Learn Microsoft Exercises – C# & .NET</h3>
 
 <p>
-  Repositório com exercícios práticos e projetos guiados, focado no desenvolvimento backend com C# e .NET. Ideal para consolidar conhecimentos e evoluir na prática.
+  Repository con esercizi pratici e progetti guidati, focalizzato sullo sviluppo backend con C# e .NET. Ideale per consolidare le conoscenze ed evolvere attraverso la pratica.
 </p>
 
-<h4>Módulos</h4>
+<h4>Moduli</h4>
 <p>
   <a href="https://github.com/jhonathancarvalho/learn-microsoft-exercises/tree/master/MicrosoftLearnTraining/Module_1">Parte 1</a> ·
   <a href="https://github.com/jhonathancarvalho/learn-microsoft-exercises/tree/master/MicrosoftLearnTraining/Module_2">Parte 2</a> ·
@@ -14,13 +14,13 @@
   <a href="https://github.com/jhonathancarvalho/learn-microsoft-exercises/tree/master/06-introducao-csharp-parte6">Parte 6</a>
 </p>
 
-<h4>Tecnologias</h4>
+<h4>Tecnologie</h4>
 <p>
   <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat&logo=csharp&logoColor=white" alt="CSharp" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
 <p>
-  ✅ Exercícios práticos e desafios para fixar conceitos essenciais.<br />
-  💡 Aberto a contribuições e melhorias.
+  ✅ Esercizi pratici e sfide per consolidare i concetti essenziali.<br />
+  💡 Aperto a contributi e miglioramenti.
 </p>
